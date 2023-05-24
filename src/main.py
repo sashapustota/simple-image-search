@@ -64,7 +64,3 @@ def main():
     hist_target = get_target_hist(args.image)
     # Compare the histograms
     compare_histograms(hist_target)
-
-
-if __name__== "__main__":
-    main()

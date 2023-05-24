@@ -102,6 +102,12 @@ The ```main.py``` script perform the following steps:
 4. Prints the five most similar images and the distance metric
 5. Saves a CSV file to the folder called ```out```, showing the five most similar images and the distance metric
 
+Finally, deactivate the environment.
+
+```bash
+deactivate
+```
+
 <!-- RESULTS -->
 ## Results
 Top five similar images and their respective distances are saved in the ```out``` folder in a form of a ```csv``` file. The results are also printed in the terminal.
